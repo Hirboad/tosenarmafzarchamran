@@ -8,3 +8,5 @@ for i in range(100):
 a=[1,5,8,9]
 
 print("Hello world!")
+
+*#in code baraye test mibashad
